@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mtnPackage
+Version: 1.0.0
+Summary: this is a test package
+Home-page: https://github.com/Elvin-Ma/
+Author: matiening
+Author-email: elvin0505@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+This is a long package description
+

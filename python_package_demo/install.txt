@@ -1,0 +1,1 @@
+/usr/local/lib/python3.6/dist-packages/mtnPackage-1.0.0-py3.6.egg
