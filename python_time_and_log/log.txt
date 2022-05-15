@@ -1,0 +1,9 @@
+2022-05-14 22:28:26,310 - __main__ - INFO - Start print log
+2022-05-14 22:28:26,310 - __main__ - WARNING - Something maybe fail.
+2022-05-14 22:28:26,310 - __main__ - INFO - Finish
+2022-05-15 19:16:49,757 - python_log.py[line:10] - DEBUG: 用户输入的第一个值是：30
+2022-05-15 19:16:51,915 - python_log.py[line:13] - DEBUG: 用户输入的第二个值是：eeq
+2022-05-15 19:16:51,916 - python_log.py[line:18] - ERROR: invalid literal for int() with base 10: 'eeq'
+2022-05-15 19:50:58,918 - python_log_demo.py[line:5] - DEBUG: 用户输入的第一个值是：344
+2022-05-15 19:51:03,099 - python_log_demo.py[line:8] - DEBUG: 用户输入的第二个值是：fdsa
+2022-05-15 19:51:03,100 - python_log_demo.py[line:13] - ERROR: invalid literal for int() with base 10: 'fdsa'
